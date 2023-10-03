@@ -1,0 +1,7 @@
+{
+  "authOptions.title": "Setup two-factor authentication to access the Merchant Portal",
+  "authOptions.description":
+    "The two-factor authentication (2FA) is now mandatory to access the Merchant Portal. Please choose an option below",
+  "authOptions.googleBtn": "Setup with Google Authenticator",
+  "authOptions.emailBtn": "Setup with email address"
+}
