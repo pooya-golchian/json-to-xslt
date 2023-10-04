@@ -1,0 +1,26 @@
+[
+  {
+    "status.confirmed": "Confirmed",
+    "status.pending": "Pending",
+    "status.pendingApproval": "Pending approval",
+    "status.inactive": "Inactive",
+    "status.completed": "Completed",
+    "status.processed": "Processed",
+    "status.cancelled": "Cancelled",
+    "status.dispatched": "Dispatched",
+    "status.refunded": "Refunded",
+    "status.rejected": "Rejected",
+    "status.partiallyRefunded": "Partially refunded",
+    "status.active": "Active",
+    "status.expired": "Expired",
+    "status.paid": "Paid",
+    "status.delivered": "Delivered",
+    "status.notShipped": "Not dispatched",
+    "status.notDispatched": "Not dispatched",
+    "status.pendingRenewal": "Pending renewal",
+    "status.returned": "Returned",
+    "status.created": "Created",
+    "status.failed": "Failed",
+    "status.success": "Success"
+  }
+]
