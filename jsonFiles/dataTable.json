@@ -1,0 +1,17 @@
+[
+  {
+    "table.transactionDate": "Transaction date",
+    "table.customerEmail": "Customer email",
+    "table.status": "Status",
+    "table.amountPaid": "Amount Paid",
+    "table.orderId": "Order ID",
+    "table.merchantOrderCode": "Merchant order code",
+    "table.storeName": "Store name",
+    "table.totalAmount": "Total amount",
+    "table.lastActivityData": "Last activity date",
+    "table.nextPaymentDate": "Next payment date",
+    "table.paymentLinkURL": "Payment link URL",
+    "table.refundId": "Refund ID",
+    "table.refundAmount": "Refund amount"
+  }
+]
