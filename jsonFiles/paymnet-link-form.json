@@ -1,0 +1,32 @@
+[
+  {
+    "paymentLinkForm.storeDetails": "Store details",
+    "paymentLinkForm.store": "Store",
+    "paymentLinkForm.storeCurrency": "Store currency",
+    "paymentLinkForm.paymentOption": "Payment option",
+    "paymentLinkForm.customerDetails": "Customer details",
+    "paymentLinkForm.customerFirstName": "Customer first name",
+    "paymentLinkForm.customerLastName": "Customer last name",
+    "paymentLinkForm.customerEmailAddress": "Customer email address",
+    "paymentLinkForm.countryCode": "Country code",
+    "paymentLinkForm.phoneNumber": "Phone number",
+    "paymentLinkForm.requireCustomerID": "Require the customer ID",
+    "paymentLinkForm.shippingBillingInformation": "Shipping / Billing information",
+    "paymentLinkForm.shippingAddressLine1": "Shipping address line 1",
+    "paymentLinkForm.city": "City",
+    "paymentLinkForm.country": "Country",
+    "paymentLinkForm.shippingAddressLine2": "Shipping address line 2",
+    "paymentLinkForm.poBox": "PO Box",
+    "paymentLinkForm.useDifferentAddressForBilling": "Use a different address for billing",
+    "paymentLinkForm.billingAddressLine1": "Billing address line 1",
+    "paymentLinkForm.billingAddressLine2": "Billing address line 2",
+    "paymentLinkForm.emirates": "Emirates",
+    "paymentLinkForm.itemDetails": "Item details",
+    "paymentLinkForm.quantity": "Qty",
+    "paymentLinkForm.item": "Item",
+    "paymentLinkForm.unitPrice": "Unit price",
+    "paymentLinkForm.addItem": "Add item",
+    "paymentLinkForm.cancel": "Cancel",
+    "paymentLinkForm.sendPaymentLink": "Send payment link"
+  }
+]
