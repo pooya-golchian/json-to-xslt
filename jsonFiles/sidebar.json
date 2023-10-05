@@ -1,0 +1,18 @@
+[
+  {
+    "sidebarMenu.overview": "Overview",
+    "sidebarMenu.orders": "Orders",
+    "sidebarMenu.payNowOrders": "Pay now orders",
+    "sidebarMenu.subscriptions": "Subscriptions",
+    "sidebarMenu.paymentLinks": "Payment links",
+    "sidebarMenu.dispatches": "Dispatches",
+    "sidebarMenu.settlements": "Settlements",
+    "sidebarMenu.refunds": "Refunds",
+    "sidebarMenu.disputes": "Disputes",
+    "sidebarMenu.onboardingChecklist": "Onboarding checklist",
+    "sidebarMenu.contactUs": "Contact us",
+    "sidebarMenu.settings": "Settings",
+    "sidebarMenu.storeUsers": "Store users",
+    "sidebarMenu.twoFactorAuthentication": "Two-factor authentication"
+  }
+]

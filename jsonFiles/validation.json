@@ -1,0 +1,14 @@
+[
+  {
+    "validationCompanyName": "Company name is required",
+    "validationFirstName": "First name is required",
+    "validationContactNumber": "Contact number is required",
+    "validationTradeLicense": "Trade license is required",
+    "validationVATNumber": "VAT number is required",
+    "validationAddressLine1": "Address line 1 is required",
+    "validationPOBox": "PO box is required",
+    "validationIBANNumber": "IBAN number is required",
+    "validationAccountHolder": "Account holder is required",
+    "validationAccountNumber": "Account number is required"
+  }
+]
