@@ -23,14 +23,14 @@ function convertJSONtoXLSX(jsonData) {
 
 // Read JSON files and convert to XLSX
 function processJSONFiles() {
-  fs.readdirSync('./jsonFiles').forEach((file) => {
+  fs.readdirSync('./checkoutJsonFiles').forEach((file) => {
     if (file.endsWith('.json')) {
       const jsonData = JSON.parse(
-        fs.readFileSync(`./jsonFiles/${file}`, 'utf-8')
+        fs.readFileSync(`./checkoutJsonFiles/${file}`, 'utf-8')
       );
       const xlsxBuffer = convertJSONtoXLSX(jsonData);
       fs.writeFileSync(
-        `./xlsxFiles/${file.replace('.json', '.xlsx')}`,
+        `./checkoutXlsxFiles/${file.replace('.json', '.xlsx')}`,
         xlsxBuffer
       );
       console.log(`Converted ${file} to XLSX.`);
@@ -39,8 +39,8 @@ function processJSONFiles() {
 }
 
 // Create output directory if it doesn't exist
-if (!fs.existsSync('./xlsxFiles')) {
-  fs.mkdirSync('./xlsxFiles');
+if (!fs.existsSync('./checkoutXlsxFiles')) {
+  fs.mkdirSync('./checkoutXlsxFiles');
 }
 
 // Start the conversion process

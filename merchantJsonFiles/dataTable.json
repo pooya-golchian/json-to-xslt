@@ -12,6 +12,10 @@
     "table.nextPaymentDate": "Next payment date",
     "table.paymentLinkURL": "Payment link URL",
     "table.refundId": "Refund ID",
-    "table.refundAmount": "Refund amount"
+    "table.refundAmount": "Refund amount",
+    "table.SettlementID": "Your Settlement ID Value",
+    "table.SettlementAmount": "Your Settlement Amount Value",
+    "table.StartDate": "Your Start Date Value",
+    "table.EndDate": "Your End Date Value"
   }
 ]
