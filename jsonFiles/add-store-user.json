@@ -1,0 +1,16 @@
+[
+  {
+    "addStoreUser.firstName": "FirstName",
+    "addStoreUser.lastName": "LastName",
+    "addStoreUser.emailAddress": "Email address",
+    "addStoreUser.countryCode": "Country code",
+    "addStoreUser.phoneNumber": "Phone number",
+    "addStoreUser.assignedStore": "Assigned store",
+    "addStoreUser.cancel": "Cancel",
+    "addStoreUser.createStoreUser": "Create store user",
+    "addStoreUser.passwordRules1": "Password needs to have a minimum length of 8 characters",
+    "addStoreUser.passwordRules2": "Password needs to have at least 1 lower case and 1 upper case character",
+    "addStoreUser.passwordRules3": "Password needs to contain at least 1 non alphanumeric character: ~!@#$%^&*_-+=|()}[]:;\"<>,.?/{",
+    "addStoreUser.passwordRules4": "Password needs to include at least 1 digit (0 - 9)"
+  }
+]
