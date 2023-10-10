@@ -1,0 +1,11 @@
+[
+  {
+    "leanProcessing.authenticationStatus": "Authenticating your credentials...",
+    "leanProcessing.retrievingBankingInfo": "Retrieving your banking information...",
+    "leanProcessing.confirmingDataIntegrity": "Confirming data integrity...",
+    "leanProcessing.verifyingAccountBalances": "Verifying account balances and available funds...",
+    "leanProcessing.leanCheck": "Lean check",
+    "leanProcessing.verifyingBankAccount": "Please wait while we verify your bank account",
+    "leanProcessing.doNotCloseOrRefresh": "Please do not close or refresh this page"
+  }
+]

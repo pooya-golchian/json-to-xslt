@@ -1,0 +1,10 @@
+[
+  {
+    "divide.title": "Pay in {{numbers}}",
+    "divide.description": "Split your purchases into {{months}} monthly payments. Make the first payment today, and the remaining amount will be automatically processed every month.",
+    "divide.today": "Today",
+    "divide.month": "{{number}} month later",
+    "divide.months": "{{number}} months later",
+    "divide.select": "Confirm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "qr.title": "Pay smarter, at your own pace Choose flexible payment options",
+    "qr.description": "No interest, No fees",
+    "qr.point1": "Ask your merchant for the applicable minimum and maximum limits",
+    "qr.point2": "Get your <span class=\"tooltip-container\"><span class=\"tooltip-box\">{{description}}</span> <span class=\"tooltip-title\">{{title}}</span></span> and your credit or debit card ready",
+    "qr.point3": "Also please make sure you know your final order value",
+    "qr.toUseCashew": "To use cashew"
+  }
+]

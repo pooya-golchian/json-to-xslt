@@ -1,0 +1,16 @@
+[
+  {
+    "loanSummary.title": "Loan summary",
+    "loanSummary.approvedOffer": "Approved offer",
+    "loanSummary.totalInterestAmount": "Total interest amount",
+    "loanSummary.interest": "Interest",
+    "loanSummary.duration": "Duration",
+    "loanSummary.monthlyPayable": "Monthly payable",
+    "loanSummary.totalPayable": "Total payable",
+    "loanSummary.applyNow": "Apply now",
+    "loanSummary.financingAgreement": "Financing Agreement",
+    "loanSummary.paymentSchedule": "Payment Schedule",
+    "loanSummary.sanadAgreement": "Sanad Agreement",
+    "loanSummary.continue": "Continue"
+  }
+]

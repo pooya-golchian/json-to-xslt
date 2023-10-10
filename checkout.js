@@ -1,7 +1,6 @@
 const fs = require('fs');
 const XLSX = require('xlsx');
 
-// Function to convert JSON to XLSX with separate rows for each key-value pair
 function convertJSONtoXLSX(jsonData) {
   const wsData = [];
   for (const item of jsonData) {
@@ -21,7 +20,6 @@ function convertJSONtoXLSX(jsonData) {
   return xlsxBuffer;
 }
 
-// Read JSON files and convert to XLSX
 function processJSONFiles() {
   fs.readdirSync('./checkoutJsonFiles').forEach((file) => {
     if (file.endsWith('.json')) {
@@ -38,10 +36,8 @@ function processJSONFiles() {
   });
 }
 
-// Create output directory if it doesn't exist
 if (!fs.existsSync('./checkoutXlsxFiles')) {
   fs.mkdirSync('./checkoutXlsxFiles');
 }
 
-// Start the conversion process
 processJSONFiles();

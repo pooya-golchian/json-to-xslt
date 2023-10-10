@@ -1,0 +1,8 @@
+[
+  {
+    "subscription.title": "{{numbers}} month{{withS}} subscription",
+    "subscription.titleMonthly": "Monthly subscription",
+    "subscription.titleAnnual": "Annual subscription",
+    "subscription.description": "Your product will renew automatically for the same cost."
+  }
+]

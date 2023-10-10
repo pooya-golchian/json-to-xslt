@@ -1,0 +1,17 @@
+[
+  {
+    "login.titleEmail": "Verify your email address",
+    "login.descriptionEmail": "We will send you a verification code by email",
+    "login.titleMobile": "Verify your mobile number",
+    "login.descriptionMobile": "We will shortly text you a verification code.",
+    "login.mobileNumber": "Mobile number",
+    "login.email": "Email",
+    "login.emailAddress": "Email Address",
+    "login.tc": "I have read and agree to <a href=\"{{url}}\" target=\"_blank\">Terms & Conditions</a>",
+    "login.verify": "Verify",
+    "login.continue": "Continue",
+    "login.sendCode": "Send verification code",
+    "login.error.email": "Incorrect email address format.",
+    "login.error.mobile": "Incorrect phone number format."
+  }
+]

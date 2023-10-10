@@ -1,0 +1,12 @@
+[
+  {
+    "defer.title": "Defer",
+    "defer.description": "Defer your payment by financing over 3, 6 or 12 months.",
+    "defer.payments": "{{number}} payments",
+    "defer.monthly": "{{amount}} monthly",
+    "defer.today": "Today",
+    "defer.month": "{{number}} month later",
+    "defer.months": "{{number}} months later",
+    "defer.select": "Select"
+  }
+]

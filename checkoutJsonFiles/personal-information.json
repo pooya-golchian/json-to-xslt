@@ -1,0 +1,22 @@
+[
+  {
+    "personalInformation.registration": "Register",
+    "personalInformation.personalInformation": "Personal information",
+    "personalInformation.dataEncryptionNotice": "Your information will be encrypted and stored securely",
+    "personalInformation.ineligibilityMessage": "Sorry, it looks like you’re not eligible to use cashew",
+    "personalInformation.dataMismatchMessage": "The information you provided does not match our account records",
+    "personalInformation.invalidNumberMessage": "Numbers not allowed",
+    "personalInformation.invalidCharactersMessage": "Special characters not allowed",
+    "personalInformation.dateOfBirth": "Date of Birth",
+    "personalInformation.minimumAgeRequirement": "Minimum age should be 18",
+    "personalInformation.genderMale": "Male",
+    "personalInformation.genderFemale": "Female",
+    "personalInformation.nationality": "Nationality",
+    "personalInformation.emiratesID": "Emirates ID",
+    "personalInformation.saudiArabianID": "Saudi Arabian ID",
+    "personalInformation.idNumber": "ID Number",
+    "personalInformation.emiratesIDExpiryDate": "Emirates ID Expiry Date",
+    "personalInformation.saudiArabianIDExpiryDate": "Saudi Arabian ID Expiry Date",
+    "personalInformation.expiryDateValidation": "Cannot be before the current date"
+  }
+]

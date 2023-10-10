@@ -1,0 +1,29 @@
+[
+  {
+    "home": "Homepage",
+    "home.selectProduct": "How do you want to pay {{amount}}?",
+    "home.selectProductSubtitle": "Pick the monthly installment option that suits you and pay your way.",
+    "home.description": "Divide or Delay your <strong>{{amount}}</strong> invoice.",
+    "home.descriptionTypes": "{{types}} your <strong>{{amount}}</strong> invoice.",
+    "home.disclaimer": "Subject to T&Cs. The Services are intended solely for legal residents of the UAE & KSA and natural persons that are at least (21) years of age or above. See complete terms <a href=\"{{tcLink}}\" target=\"_blank\">complete terms</a>",
+    "home.notEligible": "You are not eligible for any Cashew Product or an invalid order id was provided.",
+    "home.optionNotAllowed": "Option not available",
+    "home.optionNotAllowedDescription": "We regret to inform you that this option is not available at this time. Please choose a different  payment method.",
+    "400.006.004": "Invalid token provided",
+    "403.006.006": "The order is no longer eligible to select a cashew product",
+    "403.006.008": "The order amount is above the limit",
+    "404.008.001": "Order not found",
+    "403.006.011": "Sorry, your order is not eligible for the selected payment method",
+    "403.003.0014": "This order is not eligible",
+    "403.003.0015": "This order is not eligible",
+    "schedule.delay": "{{amount}} due in {{number}} days.",
+    "schedule.divide": "{{amount}} due today",
+    "schedule.subscription": "{{amount}} due yearly starting today.",
+    "schedule.paragraph.delay": "Your payment will be due in {{number}} days from now, on {{date}}.",
+    "schedule.paragraph.divide": "Your payments will be due each month for {{months}} months starting today.",
+    "schedule.paragraph.subscription": "The payment of your product will be due each year on the same date.",
+    "400.003.009.title": "Sorry",
+    "400.003.009.desc": "We were unable to verify your documents",
+    "403.008.010.title": "Order rejected"
+  }
+]

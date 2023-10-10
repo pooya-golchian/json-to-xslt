@@ -1,0 +1,8 @@
+[
+  {
+    "failed": "Failed",
+    "failed.title": "Failed transaction.",
+    "failed.instructions": "Your transaction failed. Please return back to merchant page",
+    "failed.backShipment": "Back to Shipment"
+  }
+]

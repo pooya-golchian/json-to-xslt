@@ -1,0 +1,100 @@
+[
+  {
+    "errorScreen.401.001.001.title": "Sorry",
+    "errorScreen.401.001.001.desc": "Something went wrong",
+
+    "errorScreen.403.003.0021.title": "Oh, darn. couldn’t verify your ID",
+    "errorScreen.403.003.0021.desc": "We couldn't verify the documents you uploaded.",
+
+    "errorScreen.403.003.0019.title": "Sorry we couldn't verify your ID",
+    "errorScreen.403.003.0019.desc": "Try uploading your ID again",
+
+    "errorScreen.600.003.001.title": "Sorry we couldn't verify your ID",
+    "errorScreen.600.003.001.desc": "Try uploading your ID again",
+
+    "errorScreen.600.003.002.title": "Sorry we couldn't verify your ID",
+    "errorScreen.600.003.002.desc": "Try uploading your ID again",
+
+    "errorScreen.403.003.0024.title": "Oh, bummer. We couldn’t process your order",
+    "errorScreen.403.003.0024.desc": "We didn’t manage to process your order. There’s a number of reasons why this might have happened.",
+
+    "errorScreen.403.010.012.title": "Oh, bummer. We couldn’t process your order",
+    "errorScreen.403.010.012.desc": "We didn’t manage to process your order. There’s a number of reasons why this might have happened.",
+
+    "errorScreen.409.003.016.title": "Oh, bummer. We couldn’t process your order",
+    "errorScreen.409.003.016.desc": "We didn’t manage to process your order. There’s a number of reasons why this might have happened.",
+
+    "errorScreen.600.001.001.title": "Woah there, one cashew at a time",
+    "errorScreen.600.001.001.desc": "It seems like you already have a pending order with this account. Please complete your remaining payment(s) before you make a new order.",
+
+    "errorScreen.600.002.001.title": "Oh, bummer. We couldn’t process your order",
+    "errorScreen.600.002.001.desc": "We didn’t manage to process your order. There’s a number of reasons why this might have happened.",
+
+    "errorScreen.600.006.003.title": "Oh, bummer. We couldn’t process your order",
+    "errorScreen.600.006.003.desc": "Please complete your bank connection journey in order for us to assess your request \n \n Connecting your bank improves your cashew credit and allows for bigger order amounts",
+
+    "errorScreen.600.006.004.title": "Oh, bummer. We couldn’t process your order",
+    "errorScreen.600.006.004.desc": "We didn’t manage to process your order. \n There’s a number of reasons why this might have happened.",
+
+    "errorScreen.400.003.002": "Whoops, invalid code. Please try again.",
+    "errorScreen.400.003.012": "OTP code expired or tries exceeded",
+    "errorScreen.403.003.0012": "OTP resend expired or tries exceeded",
+
+    "errorScreen.600.004.001.title": "Document verification unsuccessful",
+    "errorScreen.600.004.001.desc": "Please try reuploading your ID documents again",
+
+    "errorScreen.400.003.031.title": "Sorry,we couldn't verify your ID",
+    "errorScreen.400.003.031.desc": "Please try reuploading your ID documents again",
+
+    "errorScreen.400.004.006.title": "Oops! Your application hasn’t been approved.",
+    "errorScreen.400.004.006.desc": "",
+
+    "errorScreen.400.006.035.title": "Oh, snap! The link expired",
+    "errorScreen.400.006.035.desc": "Ask someone at the store to create a new one for you.",
+
+    "errorScreen.400.006.034.title": "QR code link already used",
+    "errorScreen.400.006.034.desc": "Thank you for being with Cashew Payments",
+
+    "errorScreen.409.010.001.title": "Oh, snap! The link expired",
+    "errorScreen.409.010.001.desc": "Ask someone at the store to create a new one for you.",
+
+    "errorScreen.409.010.002.title": "Payment link already used",
+    "errorScreen.409.010.002.desc": "Thank you for being with Cashew Payments",
+
+    "errorScreen.410.010.002.title": "It’s not you, it’s us 💔",
+    "errorScreen.410.010.002.desc": "With this purchase amount, we’re unable to find a payment option that works.",
+
+    "errorScreen.403.006.008.title": "It’s not you, it’s us 💔",
+    "errorScreen.403.006.008.desc": "With this purchase amount, we’re unable to find a payment option that works.",
+
+    "errorScreen.403.008.010.title": "It’s not you, it’s us 💔",
+    "errorScreen.403.008.010.desc": "With this purchase amount, we’re unable to find a payment option that works.",
+
+    "errorScreen.403.008.011.title": "It’s not you, it’s us 💔",
+    "errorScreen.403.008.011.desc": "With this purchase amount, we’re unable to find a payment option that works.",
+
+    "errorScreen.600.005.001.title": "So it didn’t work out this time",
+    "errorScreen.600.005.001.desc": "Sad we couldn't find a payment option that works for you, but we hope to have you with us again soon.",
+
+    "errorScreen.403.010.013.title": "Oh, bummer. We couldn't process your order",
+    "errorScreen.403.010.013.desc": "We didn’t manage to process your order. There’s a number of reasons why this might have happened.",
+
+    "errorScreen.403.003.033.title": "Customer ID mismatch",
+    "errorScreen.403.003.033.desc": "Please contact your merchant to make sure you’re using the same ID set in the payment link.",
+
+    "errorScreen.400.004.013.title": "Oh, bummer. we couldn't process your order",
+    "errorScreen.400.004.013.desc": "We didn't manage to process your order. \nThere's a number of reasons why this might have happened. \nYou'll be refunded any amount deducted from your debit or credit card.",
+
+    "errorScreen.403.001.003.title": "Woah there, one cashew at a time",
+    "errorScreen.403.001.003.desc": "It seems like you already have a pending order with this account. Please complete your remaining payment(s) before you make a new order.",
+
+    "errorScreen.400.010.017.title": "Oh, bummer. We couldn’t process your order",
+    "errorScreen.400.010.017.desc": "We're unable to process your order right now due to a technical issue. Give it another try later. ",
+
+    "errorScreen.400.003.034.title": "Oh, bummer. We couldn’t process your order",
+    "errorScreen.400.003.034.desc": "We didn’t manage to process your order. There’s a number of reasons why this might have happened.",
+
+    "errorScreen.linkMyBankAccount": "Link my bank account",
+    "errorScreen.reuploadMyID": "Re-upload my ID"
+  }
+]

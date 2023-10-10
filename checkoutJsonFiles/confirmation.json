@@ -1,0 +1,38 @@
+[
+  {
+    "confirmation": "Confirmation",
+    "confirmation.title": "Purchase completed",
+    "confirmation.subtitle.divide": "You have successfully paid 1/{{installmentsNumber}} installment ({{installmentAmount}}) out of your {{orderAmount}} order",
+    "confirmation.subtitle.delay": "Your payment of {{orderAmount}} will be due in 14 days from today",
+    "confirmation.subtitle.subscription": "You successfully completed your payment of {{orderAmount}} for your yearly subscription",
+    "confirmation.instructions": "Please check your email confirmation for your cashew order summary.",
+    "confirmation.redirect": "You are being redirected to <br/>{{storeName}}",
+    "confirmation.orderSummary": "Order summary",
+    "confirmation.purchaseAmount": "Purchase amount",
+    "confirmation.orderId": "Order id",
+    "confirmation.paymentMethod": "Payment method",
+    "confirmation.backShipment": "Back to Shipment",
+    "qrConfirmation.title": "Congratulations!! 🥳",
+    "qrConfirmation.subtitle": "You have successfully paid 1/{{installmentsNumber}} installment ({{installmentAmount}}) out of your {{orderAmount}} order",
+    "qrConfirmation.subtitleSubscription": "You successfully paid {{orderAmount}} <br/> for your {{storeName}} auto-renewal subscription",
+    "qrConfirmation.orderSummary": "Your order summary will be sent to the following email: <span>{{email}}</span>",
+    "confirmation.offline.pageActionConfirmation.title": "Aaaand... your purchase is complete!",
+    "confirmation.offline.pageActionConfirmation.tabTitle": "Confirmation",
+    "confirmation.offline.pageActionConfirmation.subTitle": "Show this code to the cashier and grab your order",
+
+    "confirmation.offline.pageActionPayment.title": "Confirmation",
+    "confirmation.offline.pageActionPayment.subTitle": "Take a look at your payment schedule: ",
+
+    "confirmation.offline.footerParagraph": "Your order summary will be sent to the following email: <span class=\"primary\">{email}</span>",
+    "confirmation.offline.pageAction.tabTitle": "Confirmation",
+    "confirmation.online.pageAction.title": "Aaaand... your purchase is complete! Welcome to the cashew club",
+    "confirmation.online.pageAction.subTitle": "Take a quick look at the schedule below for when your next payments are due.",
+
+    "confirmation.paymentLink": "Your order summary will be sent to the following email: <span class=\"primary\">{email}</span>",
+
+    "confirmation.qrConfirmation": "Please check your email confirmation for your cashew order summary.",
+    "confirmation.qrConfirmation.container": "Present the following code and your receipt at the cashier to complete your order",
+    "confirmation.qrConfirmation.noteBoxText": "Please check your email confirmation for your cashew order summary.",
+    "confirmation.timer": "We’ll redirect you to our partner website in <span class=\"primary\">({timeLeft})</span>"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "verifyOTP.titleEmail": "Verify your email address",
+    "verifyOTP.descriptionOtp": "We sent a verification code to <strong>{{to}}</strong>",
+    "verifyOTP.titleMobile": "Verify your mobile number",
+    "verifyOTP.descriptionMobile": "A verification code has been sent to ",
+    "verifyOTP.enterCode": "Enter your code",
+    "verifyOTP.didNotEmail": "Didn't receive your Code?",
+    "verifyOTP.resendEmail": "Resend email",
+    "verifyOTP.didNotCode": "Didn't receive your code?",
+    "verifyOTP.resendCode": "Resend Code",
+    "verifyOTP.resendMobile": "Resend SMS",
+    "verifyOTP.goBack": "Go back",
+    "verifyOTP.wrongCode": "Whoops, invalid code. Please try again.",
+    "verifyOTP.limitExceeded": "You exceeded your limit to resend code. Please go back and check your mobile number",
+    "verifyOTP.resent": "Code resent",
+    "verifyOTP.notEligible": "You are not eligible to pay with Cashew Payments as you have an active order waiting payment",
+    "verifyOTP.secondsRemaining": "You will be able to request a new code in {{seconds}} seconds",
+    "verifyOTP.403.003.0012": "OTP resend expired or tries exceeded"
+  }
+]

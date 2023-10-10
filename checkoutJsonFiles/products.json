@@ -1,0 +1,7 @@
+[
+  {
+    "product.message": "Fill in your total purchase amount and we’ll show you your payment options.",
+    "product.error_message": "With this purchase amount, we’re unable to find a payment option that works.",
+    "product.html_content": "<p>By confirming, I agree to Cashew’s <a target=\"_blank\" href=\"https://www.cashewpayments.com/terms\" rel=\"noreferrer\" className={classNames('primary')}> <strong>Terms & Conditions</strong></a></p>"
+  }
+]

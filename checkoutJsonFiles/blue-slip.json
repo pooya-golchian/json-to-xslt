@@ -1,0 +1,16 @@
+[
+  {
+    "blueSlip.title": "Please look for your sales order total amount",
+    "blueSlip.description": "Your sales order slip will be requested to confirm your order at the merchant point of sale",
+    "blueSlip.collect": "Collect my order slip",
+    "blueSlip.gotSlip": "Got my order slip",
+    "blueSlip.enterAmountTitle": "Please enter your order total amount",
+    "blueSlip.enterAmountDesc": "The amount needs to match with your order value",
+    "blueSlip.collectTitle": "How to collect my sales order slip?",
+    "blueSlip.collectDesc": "Your sales order slip will be requested to complete and collect your order at the merchant point of sale.",
+    "blueSlip.gotIt": "Got it",
+    "blueSlip.point1": "Select the item you want to purchase.",
+    "blueSlip.point2": "Ask for a merchant agent to take you to the nearest order slip point of sale machine.",
+    "blueSlip.point3": "Provide your personal information to the POS agent and collect your sales order slip."
+  }
+]

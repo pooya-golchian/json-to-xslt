@@ -1,0 +1,9 @@
+[
+  {
+    "reject.title": "Sorry",
+    "reject.instructions": "We were unable to verify your documents",
+    "reject.backShipment": "Back to Shipment",
+    "reject.whatsHappened.403.008.010": "Your order total amount exceeds the authorized limit of {{storeMaxAmount}}.",
+    "reject.whatsHappened.403.008.011": "Your order total amount is below the requested minimum of {{storeMinAmount}}."
+  }
+]

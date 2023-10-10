@@ -1,0 +1,13 @@
+[
+  {
+    "updateProducts.exitMessage": "We're sorry to see you go",
+    "updateProducts.exitInstructions": "Returning to the shop without completing your payment will end your checkout process, and you'll have to restart.",
+    "updateProducts.returnToShop": "Return to shop",
+    "updateProducts.cancelOrder": "Cancel my order",
+    "updateProducts.checkout": "Checkout",
+    "updateProducts.eligibilityMessage1": "Sorry, you are not eligible to split your",
+    "updateProducts.eligibilityMessage2": "payment in",
+    "updateProducts.otherPaymentOptions": "Here are other payment options we can offer you",
+    "updateProducts.returnToShopInstructions": "If you'd rather not proceed with any of the below payment options, return to the shop and resume your shopping."
+  }
+]

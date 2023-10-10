@@ -1,0 +1,7 @@
+[
+  {
+    "orderAmount.orderAmount": "Order Amount",
+    "orderAmount.enterPurchaseTotalAmount": "Enter your purchase total amount",
+    "orderAmount.unableToFindPaymentOption": "With this purchase amount, we’re unable to find a payment option that works."
+  }
+]
